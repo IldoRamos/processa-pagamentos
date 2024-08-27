@@ -1,0 +1,22 @@
+# Diretório de dependências
+node_modules/
+
+# Arquivos de logs
+logs
+*.log
+npm-debug.log*
+
+# Arquivos de ambiente
+.env
+
+# Diretórios de build
+dist/
+build/
+
+# Arquivos específicos de sistemas operacionais
+.DS_Store
+Thumbs.db
+
+# Arquivos de IDEs
+.vscode/
+.idea/
